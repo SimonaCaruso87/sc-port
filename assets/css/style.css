@@ -20,11 +20,12 @@
    * colors
    */
 
-  --raw-seinna: hsl(24, 74%, 58%);
-  --sizzling-sunrise: hsl(51, 95%, 54%);
-  --scarlet: hsl(13, 96%, 47%);
+  --raw-seinna: hsl(192, 73%, 37%);
+  --sizzling-sunrise: hsl(194, 74%, 38%);
+  --scarlet: hsl(192, 93%, 22%);
   --black: hsl(0, 0%, 0%);
   --white: hsl(0, 0%, 100%);
+  
 
   /**
    * typography
